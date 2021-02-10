@@ -1,0 +1,7 @@
+{
+    "name": "ervin/twig-example",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
